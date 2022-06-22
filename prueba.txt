@@ -1,2 +1,3 @@
 Esto es un fichero 
 Esto sigue siendo un fichero
+Esto puede ya no ser un fichero
